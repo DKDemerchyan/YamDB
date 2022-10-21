@@ -1,5 +1,13 @@
 # Проект API_Yamdb с CI и CD 
-![Build Status](https://github.com/DKDemerchyan/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=C0C0C0)
+![Django ](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=092E20&labelColor=C0C0C0)
+![Django REST Framework](https://img.shields.io/badge/Django-REST_Framework-092E20?style=for-the-badge&logo=Django&logoColor=092E20&labelColor=C0C0C0)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=2496ED&labelColor=C0C0C0)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=C0C0C0)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=GitHub&logoColor=F05032&labelColor=C0C0C0)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=181717&labelColor=C0C0C0)
+![Yandex_Cloud](https://img.shields.io/badge/Yandex-Cloud-87CEFA?style=for-the-badge&labelColor=C0C0C0)
+![.ENV](https://img.shields.io/badge/.ENV-ECD53F?style=for-the-badge&logo=.ENV&logoColor=ECD53F&labelColor=C0C0C0)
 
 ## Описание проекта
 Проект собирает отзывы пользователей на произведения. Произведения делятся на категории. Список категорий может быть расширен.
